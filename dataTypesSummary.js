@@ -12,3 +12,10 @@
 // ==================
 // array , object , function 
 // only fn type of function and other object 
+
+// memory 
+
+// 1. stack ->Primitive
+// 2.heap  -> Non-Primitive
+
+
